@@ -2,8 +2,6 @@ This project demonstrates how to train the **YOLOv9** object detection model on 
 
 ### YOLOv9 Model with Custom Dataset Training
 
-This project demonstrates how to train the **YOLOv9** object detection model on a custom dataset using a Kaggle notebook. Below is a summary of the key steps involved:
-
 1. **YOLOv9 Repository Cloning**:
    - The official YOLOv9 repository is cloned from GitHub, bringing in all the necessary files required to work with the model.
 
